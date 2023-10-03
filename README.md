@@ -5,6 +5,7 @@ Machine learning involves training a computer to recognize patterns and make pre
 Linear regression is a mainly used technique for the prediction of house prices due to its simplicity and interpretability. It assumes a linear relationship between the independent variables (such as how many bedrooms, number of bathrooms, and square footage) and the dependent variable (house price). By fitting a linear regression model to historical data, we can estimate the coefficients that represent the relationship between the target variable and the features. This enables us to make predictions on new data by multiplying the feature values with their respective coefficients and summing them up. Linear regression provides insights into the impact of each feature on the house price, enabling us to understand the significance of different factors and make informed decisions in the real estate market.
 # Dataset :
 We can use Kaggle kc_house_data dataset.
+If the code does not view from the account it can also be viewed in this websiter by copying the github url [https://nbviewer.org/](https://nbviewer.org/github/RANJANA20-eng/Bharat-Intern_Task1/blob/main/House%20Price%20Prediction.ipynb)
 # Conclusion :
 In conclusion, using machine learning in Python is a powerful tool for predicting house prices. By gathering and cleaning data, visualizing patterns, and training and evaluating our models, we can make informed decisions in the dynamic world of real estate.
 
